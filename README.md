@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Jasper Samuel 
 </h1>
 <ul>
-<li>- 👀 I’m interested in UX Design & UI Development</li> 
+<li>- 👀 I’m an aspring UI/UX Designer</li> 
 <li>- 🌱 I’m currently learning Python & Javascript</li> 
 <li>- 💞️ I’m looking to collaborate on simple projects</li> 
 - 📫 reach me on
