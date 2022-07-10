@@ -3,8 +3,8 @@
 </h1>
 <ul>
 <li>- 👀 I’m an aspring Azure Developer </li> 
-<li>- 🌱 I’m currently learning Python & Javascript</li> 
-<li>- 💞️ I’m looking to collaborate on simple projects</li> 
+<li>- 🌱 Currently learning Python & Javascript</li> 
+<li>- 💞️ Looking to collaborate on simple projects</li> 
 - 📫 reach me on
 <ul>
 <a href="https://www.instagram.com/jaspersamuelj/">Instagram</a>
