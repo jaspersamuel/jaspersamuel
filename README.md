@@ -8,8 +8,8 @@
 - 📫 reach me on
 <ul>
 <a href="https://www.instagram.com/jaspersamuelj/">Instagram</a>
-<a href="https://in.linkedin.com/in/jasper-samuel-j-063187167">LinkedIn</a>
-<a href="https://www.behance.net/jaspersamuel">Behance</a>
+<a href="https://www.linkedin.com/in/jaspersamuelj/">LinkedIn</a>
+<a href="https://medium.com/@jaspersamuel">Medium</a>
 
 
 <!---
