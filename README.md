@@ -7,9 +7,9 @@
 <li>- 💞️ Looking to collaborate on simple projects</li> 
 - 📫 reach me on
 <ul>
-<a href="https://www.instagram.com/jaspersamuelj/">Instagram</a>
-<a href="https://www.linkedin.com/in/jaspersamuelj/">LinkedIn</a>
-<a href="https://medium.com/@jaspersamuel">Medium</a>
+<a href="https://www.instagram.com/jaspersamuelj/"target="_blank">Instagram</a>
+<a href="https://www.linkedin.com/in/jaspersamuelj/"target="_blank">LinkedIn</a>
+<a href="https://medium.com/@jaspersamuel"target="_blank">Medium</a>
 
 
 <!---
