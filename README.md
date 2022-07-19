@@ -1,8 +1,8 @@
 <h1>
-- 👋 Hi, I’m Jasper Samuel 
+👋 Hi, I’m Jasper Samuel 
 </h1>
 <ul>
-<li>- 👀 I’m an aspring Developer </li> 
+<li>- 👀 I’m an aspring Developer working in Tata Consultancy Services </li> 
 <li>- 🌱 Currently learning Python & Javascript</li> 
 <li>- 💞️ Looking to collaborate on simple projects</li> 
 - 📫 reach me on
