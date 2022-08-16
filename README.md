@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/jaspersamuelj/"target="_blank" rel="noopener noreferrer">
 <img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"alt="LinkedIn height="50" width="50">
 </a>
-[<img src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:jaspersamuel2000@outlook.com)
+
 
 
 <!---
