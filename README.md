@@ -16,7 +16,7 @@
 ## Currently Learning
     
     <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter"width="50"height="50">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"alt="Boostrap"width="50"height="50">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Boostrap" width="50" height="50">
 
 
 <ul>
