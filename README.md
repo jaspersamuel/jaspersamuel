@@ -10,6 +10,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"width="50"height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"width="50"height="50">
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"width="50"height="50">
+    <img src="https://icons8.com/icon/nMeAkcoE7aTF/figma" alt="Azure"width="50"height="50">
+    
   
 
 
