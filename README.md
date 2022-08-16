@@ -14,9 +14,11 @@
     <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50"> 
     
 
-
+## Reach me
 <ul>
-<a href="https://www.instagram.com/jaspersamuelj/"target="_blank" rel="noopener noreferrer">Instagram</a>
+<a href="https://www.instagram.com/jaspersamuelj/"target="_blank" rel="noopener noreferrer">
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"alt="Instagram" height="50" width="50>
+</a>
 <a href="https://www.linkedin.com/in/jaspersamuelj/"target="_blank" rel="noopener noreferrer">LinkedIn</a>
 <a href="https://medium.com/@jaspersamuel"target="_blank" rel="noopener noreferrer">Medium</a>
 
