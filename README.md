@@ -7,7 +7,7 @@
 ## Skills:
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="python"width="45"height="45">
+    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="python"width="50"height="50">
   </a>
 
 
