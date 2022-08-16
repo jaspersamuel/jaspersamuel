@@ -5,7 +5,10 @@
 <blockquote><q> 👀 I’m an aspring Developer working in Tata Consultancy Services </q></blockquote> 
 
 ## Skills:
-
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="python"width="45"height="45">
+  </a>
 
 
 
