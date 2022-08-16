@@ -4,7 +4,7 @@
 <ul>
 <blockquote><q> 👀 I’m an aspring Developer working in Tata Consultancy Services </q></blockquote> 
 
-## Skills:
+## Skills
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python"width="50"height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"width="50"height="50">
@@ -13,9 +13,10 @@
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon Web Services"width="50" height="50">
     <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50"> 
     
-  
-
-
+## Currently Learning
+    
+    <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter"width="50"height="50">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"alt="Boostrap"width="50"height="50">
 
 
 <ul>
