@@ -13,11 +13,6 @@
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon Web Services"width="50" height="50">
     <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50"> 
     
-    ## Currently Learning
-    <p align="left">
-    
-    <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="Flutter"width="50"height="50">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Boostrap" width="50" height="50">
 
 
 <ul>
