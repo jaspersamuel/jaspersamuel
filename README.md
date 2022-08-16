@@ -7,7 +7,7 @@
 ## Skills:
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=6&page=1&position=6&related_id=5968350&origin=search" alt="python"width="50"height="50">
+    <img src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" alt="python"width="50"height="50">
   </a>
 
 
