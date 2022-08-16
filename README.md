@@ -5,7 +5,7 @@
 <li>- 👀 I’m an aspring Developer working in Tata Consultancy Services </li> 
 <li>- 🌱 Currently learning Python & Javascript</li> 
 <li>- 💞️ Looking to collaborate on simple projects</li> 
-- 📫 reach me on
+- 📫 reach me here
 <ul>
 <a href="https://www.instagram.com/jaspersamuelj/"target="_blank" rel="noopener noreferrer">Instagram</a>
 <a href="https://www.linkedin.com/in/jaspersamuelj/"target="_blank" rel="noopener noreferrer">LinkedIn</a>
