@@ -13,16 +13,16 @@
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon Web Services"width="50" height="50">
     <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50"> 
     
-<br><br>7.  🗣️ **LANGUAGES**<br>
+<br>🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
-| English | Professional | N/A |
-| Swahili | Professional | N/A |
-| Spanish | Intermediate | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/davidkariuki) |
+| Tamil | Native | N/A |
+| English | Native | N/A |
+| German | Beginner | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Jaspersamuelj) |
 ||||
 
 
-<br><br>8. #️⃣ **REACH ME**<br>
+<br>#️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrjaspersamuel@gmail.com) &emsp;[![LinkedIn - Jasper Samuel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspersamuelj)&emsp;
 [![Twitter - @thejaspersamuel_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejaspersamuel)&emsp;[![Instagram - @jaspersamuelj](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/jaspersamuelj/?igshid=1dbbdmd...)&emsp;
