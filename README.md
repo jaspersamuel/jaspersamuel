@@ -27,7 +27,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrjaspersamuel@gmail.com) &emsp;[![LinkedIn - Jasper Samuel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspersamuelj)&emsp;
 [![Twitter - @thejaspersamuel_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejaspersamuel)&emsp;[![Instagram - @jaspersamuelj](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/jaspersamuelj/?igshid=1dbbdmd...)&emsp;
 
-<br><br>9. #️ 📖 **Articles and Posts**<br>
+<br> #️ 📖 **Articles and Posts**<br>
 &emsp;&emsp;&emsp;
 [![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaspersamuel) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Jasper-Samuel-4) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jaspersamuel)
 
