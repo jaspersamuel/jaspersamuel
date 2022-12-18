@@ -6,9 +6,6 @@
 
 ## Skills
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python"width="50"height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"width="50"height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"width="50"height="50">
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"width="50"height="50">
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon Web Services"width="50" height="50">
     <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50"> 
