@@ -2,7 +2,7 @@
 👋 Hi, I’m Jasper Samuel 
 </h1>
 <ul>
-<blockquote><q> 👀 I’m an aspring Business Analytics Student in University of Exeter who was previously working in Tata Consultancy Services </q></blockquote> 
+<blockquote><q> 👀 I’m an aspring Business Analytics Student in University of Exeter, I was previously working in Tata Consultancy Services </q></blockquote> 
 
 ## Skills
 <p align="left">
