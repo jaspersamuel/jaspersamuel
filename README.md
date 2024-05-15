@@ -8,7 +8,20 @@
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"width="50"height="50">
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon Web Services"width="50" height="50">
-    <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50"> 
+    <img src="https://img.icons8.com/doodle/48/000000/figma.png"alt="Figma"width="50"height="50">
+    <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"alt="Tableau"width="50"height="50"> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
     
 <br>🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
