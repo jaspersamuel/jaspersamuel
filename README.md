@@ -17,6 +17,16 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker"/>
 
+## Credentials
+<img width="150" height="150" alt="microsoft-certified-azure-fundamentals (1)" src="https://github.com/user-attachments/assets/39adf914-b806-4ed3-b91a-2e766786e343" />
+<img width="150" height="150" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/be0681c6-0f65-46e2-9cd2-1fadc39cb885" />
+<img width="150" height="150" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/38194c94-f274-4381-9f4b-e200d43a6d30" />
+<img width="150" height="150" alt="aws-cloud-quest-data-analytics-training-badge" src="https://github.com/user-attachments/assets/89a40a64-32d7-4e8d-801f-c51b33e7d500" />
+<img width="150" height="150" alt="aws-cloud-quest-generative-ai-practitioner-training" src="https://github.com/user-attachments/assets/de37b835-7971-4af1-b435-67c4c6beef83" />
+<img width="150" height="150" alt="building-rag-apps-using-mongodb" src="https://github.com/user-attachments/assets/718fab48-0b2c-47d8-aa4b-355956f352c3" />
+<img width="150" height="150" alt="pmi-essentials-m-o-r-e-maximizing-project-success" src="https://github.com/user-attachments/assets/bd7e64ac-d48a-426a-b8aa-f48849690d4c" />
+
+
 <br>🗣️ **LANGUAGES**<br>
 |LANGUAGE|LEVEL|LINK|
 |-|-|-|
